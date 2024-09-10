@@ -22,7 +22,7 @@ To solve this, we must think about Starfiles at a high level, as being 3 section
 ### File Storage - Hydrafiles
 We have already solved file storage using a technology we created called Hydrafiles. Hydrafiles provides TOR-style privacy for hosts, with zero-UX trade-offs for users. Anyone can clone the [Hydrafiles](https://github.com/StarfilesFileSharing/Hydrafiles) repository and run a node.
 
-### Database+API
+### Database+API - B2DB
 To solve the database problem our team is currently developing [B2DB](https://github.com/StarfilesFileSharing/B2DB). B2DB is a blockchain that runs SQL instead of money. Our goal with the project (although not yet achieved) is to create a P2P SQL database that can run in a browser with no central authority. If this can be achieved, this technology will allow for many websites requiring a backend to completely replace their backend with a database hosted by their users.
 
 ### GUI
