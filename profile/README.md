@@ -7,7 +7,7 @@ At Starfiles, we genuinely care about people having access to information and be
 From a business perspective, numbers going up is great! But our motivations at Starfiles are not aligned with standard business incentives. As we grow, we start to face new problems. We get new eyes on us, and pressure from outside forces to stop what we're doing, with censorship only increasing. It is important to realise that Starfiles is managed by a small team and we can only deal with so much pressure at a time.  We aren't confident that, at the current rate of growth, Starfiles will be able to exist in a few years.
 
 ## Learning From Other People's Mistakes
-Many have tried to win the battle for free information & software in different ways, and all have lost. Megafiles was shutdown and forced to comply before re-opening, Bittorrent amd Tor have captured 0% of their respective markets, and the Wikileaks founder was kidnapped. There are hundreds more cases just like this. It is important to understand why they failed. It boils down to 2 reasons:
+Many have tried to win the battle for free information & software in different ways, and all have lost. Megafiles was shutdown and forced to comply before re-opening, Bittorrent and Tor have captured 0% of their respective markets, and the Wikileaks founder was kidnapped. There are hundreds more cases just like this. It is important to understand why they failed. It boils down to 2 reasons:
 1. Terrible user experience (UX) (e.g. Bittorrent & Tor)
 2. Single point of failure (e.g. Megafiles & Wikileaks)
 
