@@ -12,7 +12,7 @@ Many have tried to win the battle for free information & software in different w
 2. Single point of failure (e.g. Megafiles & Wikileaks)
 
 ## The Solution
-The solution is simple, at least to explain. You need something with a good user experience that doesn't have a single point of failure (decentralisation). In reality, this is a lot harder to achieve. We now face a question. How face we future-proof Starfiles? How can we re-engineer Starfiles to remove it's single point of failure (the team) while maintaing a good UX?
+The solution is simple, at least to explain. You need something with a good user experience that doesn't have a single point of failure (decentralisation). In reality, this is a lot harder to achieve. We now face a question. How can we future-proof Starfiles? How can we re-engineer Starfiles to remove it's single point of failure (the team) while maintaing a good UX?
 
 To solve this, we must think about Starfiles at a high level, as being 3 sections:
 1. File storage
